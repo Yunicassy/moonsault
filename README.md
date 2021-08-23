@@ -4,14 +4,14 @@
 
 # Installation
 
-`npm i moonsault --save`
+`npm i yunicassy --save`
 
 then...
 
 ```
-const { moonsault } = require('moonsault');
+import { yunicassy } from 'yunicassy';
 
-moonsault({
+yunicassy({
   shadow_type: 'soft',
   padding: false
 })
