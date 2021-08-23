@@ -1,4 +1,4 @@
-# Welcome to moonsault!
+# Welcome to yunicassy!
 
 * You can make perfect shadows on images you upload for non-designers!
 
